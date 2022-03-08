@@ -1,0 +1,15 @@
+C:\Users\JoQueen\Desktop\Aula2\bin\Debug\net6.0\Aula2.exe
+C:\Users\JoQueen\Desktop\Aula2\bin\Debug\net6.0\Aula2.deps.json
+C:\Users\JoQueen\Desktop\Aula2\bin\Debug\net6.0\Aula2.runtimeconfig.json
+C:\Users\JoQueen\Desktop\Aula2\bin\Debug\net6.0\Aula2.dll
+C:\Users\JoQueen\Desktop\Aula2\bin\Debug\net6.0\Aula2.pdb
+C:\Users\JoQueen\Desktop\Aula2\obj\Debug\net6.0\Aula2.csproj.AssemblyReference.cache
+C:\Users\JoQueen\Desktop\Aula2\obj\Debug\net6.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoQueen\Desktop\Aula2\obj\Debug\net6.0\Aula2.AssemblyInfoInputs.cache
+C:\Users\JoQueen\Desktop\Aula2\obj\Debug\net6.0\Aula2.AssemblyInfo.cs
+C:\Users\JoQueen\Desktop\Aula2\obj\Debug\net6.0\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\JoQueen\Desktop\Aula2\obj\Debug\net6.0\Aula2.dll
+C:\Users\JoQueen\Desktop\Aula2\obj\Debug\net6.0\refint\Aula2.dll
+C:\Users\JoQueen\Desktop\Aula2\obj\Debug\net6.0\Aula2.pdb
+C:\Users\JoQueen\Desktop\Aula2\obj\Debug\net6.0\Aula2.genruntimeconfig.cache
+C:\Users\JoQueen\Desktop\Aula2\obj\Debug\net6.0\ref\Aula2.dll
