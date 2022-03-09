@@ -9,4 +9,4 @@ Aula 3 - Descobrindo o que é um ref struct
 
 Aula 4 - Aprendendo a comparar Valores e Referências
 
-Aula 5 - O que é o coletor de Lixo (Garbage Collector) do C# e como ele funciona
+Aula 5 - O que é o coletor de Lixo (Garbage Collector) do C# e como ele funciona https://docs.microsoft.com/pt-br/dotnet/standard/garbage-collection/fundamentals
